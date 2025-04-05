@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "New York",
+    "region": "New York",
+    "country": "United States of America",
+    "lat": 40.7142,
+    "lon": -74.0064,
+    "tz_id": "America/New_York",
+    "localtime_epoch": 1743838427,
+    "localtime": "2025-04-05 03:33"
+  },
+  "current": {
+    "last_updated_epoch": 1743838200,
+    "last_updated": "2025-04-05 03:30",
+    "temp_c": 14.4,
+    "temp_f": 57.9,
+    "is_day": 0,
+    "condition": {
+      "text": "Partly cloudy",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+      "code": 1003
+    },
+    "wind_mph": 9.6,
+    "wind_kph": 15.5,
+    "wind_degree": 47,
+    "wind_dir": "NE",
+    "pressure_mb": 1027,
+    "pressure_in": 30.33,
+    "precip_mm": 0,
+    "precip_in": 0,
+    "humidity": 36,
+    "cloud": 75,
+    "feelslike_c": 13.3,
+    "feelslike_f": 55.9,
+    "windchill_c": 9.9,
+    "windchill_f": 49.8,
+    "heatindex_c": 11.2,
+    "heatindex_f": 52.2,
+    "dewpoint_c": 6.3,
+    "dewpoint_f": 43.4,
+    "vis_km": 16,
+    "vis_miles": 9,
+    "uv": 0,
+    "gust_mph": 14,
+    "gust_kph": 22.5
+  }
+}
